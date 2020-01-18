@@ -8,6 +8,4 @@ Hello, everyone! My name is Taylor (she/her/hers) and I am a second year MSPPM s
 I hope to learn how to best communicate data-driven findings to a wide variety of audiences. I hope this ability to communicate will result in data-influenced decision-making. For example, I have overused bar and pie graphs both in school and professionally, but I did not know how to make them better. I hope to have more tools to address most data visualization need I will have. This skill is especially important in regard to my career after graduation.
 
 # **Portfolio**
-This section will contain future data visualization work. In the meantime, enjoy a picture of my pug, Gustav.
-![Gustav] 
-(https://photos.app.goo.gl/r53d5WuZrwE4gj6Y6/.jpg)
+This section will contain future data visualization work. 
