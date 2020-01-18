@@ -10,4 +10,4 @@ I hope to learn how to best communicate data-driven findings to a wide variety o
 # **Portfolio**
 This section will contain future data visualization work. In the meantime, enjoy a picture of my pug, Gustav.
 ![Gustav] 
-(https://photos.app.goo.gl/r53d5WuZrwE4gj6Y6)
+(https://photos.app.goo.gl/r53d5WuZrwE4gj6Y6/.jpg)
