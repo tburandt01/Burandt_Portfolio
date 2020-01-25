@@ -1,4 +1,4 @@
-#**Assignment 2**
+# **Assignment 2**
 The following are visualizations created for Assignment 2 in Telling Stories with Data. 
 
 **Part 1** . 
