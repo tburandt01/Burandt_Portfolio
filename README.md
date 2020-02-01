@@ -9,6 +9,7 @@ I hope to learn how to best communicate data-driven findings to a wide variety o
 
 # **Portfolio**
 [Assignment 2 Visualizations](Assignment2.md) 
+[Assignment 3 Visualizations](Assignment3.md)
 
 
 
