@@ -1,5 +1,5 @@
 # **Assignment 3**
-The following are visualizations created for Assignment 2 in Telling Stories with Data. 
+The following are visualizations created for Assignment 3 and 4 in Telling Stories with Data. 
 
 ## **Part 1: Selecting the Data Visualization** 
 I selected a visualization from the National Highway Traffic Safety Administration's website that details the number of speeding-related fatalities in 2016. This is the visualization in the bottom right of the dashboard. I selected this graphic for a few reasons. First, I am very interested in transportation policy and found it very exciting to explore how transportation data is currently being visualized as well as what data is available. Second, this set of data is presented in a dashboard that is somewhat overwhelming, and the opportunity to disect what is happening and recreate one visualization seemed exciting.
