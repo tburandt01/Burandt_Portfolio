@@ -11,10 +11,10 @@ The first sketch is an outline of how to tell the story, and what key data attri
 ![Storyline](/IMG_0224.jpg)
 
 This sketch intends to show the difference among the states using a map. I am unsure how I want to measure this data; count of the number of pieces of legislation, or color code based on the type of legislation.
-![Storyline](/IMG_0224.jpg)
+![Storyline](/IMG_0226.jpg)
 
 This sketch will show the number of lives predicted to be saved by autonomous vehicle implementation. This is an important component to the story in that it builds the narrative for the necessity of the technology.
-![Storyline](/IMG_0224.jpg)
+![Storyline](/IMG_0227.jpg)
 
 
 ## **Data** 
