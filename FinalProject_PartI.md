@@ -7,7 +7,7 @@ The intended audience for the project and visualizations are other state legisla
 
 
 ## **Initial Sketches** 
-
+(/IMG_0224.jpg)
 
 
 ## **Data** 
