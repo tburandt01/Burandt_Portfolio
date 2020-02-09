@@ -30,6 +30,8 @@ The final product will be presented in a [free WordPress website](https://tburan
 
 The layout will be in a story format, similar to the first initial sketch above. The website will lay out a brief history of autonomous vehicles, the different levels of automation, the federal government's role, and the states' role in the technology. Throughout will be visualizations of what, how many, and when legislation was enacted and how all of that comes (or does not come) together. The purpose is to show the very different places the country is at when transportation literally travels across state lines. 
 
+The visualizations will likely be completed in Tableau and RawGraphs. These platforms seem best suited for the types of visualizes sketched. However, after more exploration another format may be selected.
+
 The goal is to persuade state legislators to either pass more similar legislation to allow for ease of testing and implementation; and/or motivate the federal government to pass legislation in order to unify the existing environment.
 
 
