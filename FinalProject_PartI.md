@@ -1,9 +1,11 @@
 # **Final Project Part I**
-This project will explore enacted legislation in the United States regarding the implementation, testing, and/or exploration of autonomous vehicles, and any implications this legislation has on the future state of autonomous vehicles. Although many states have enacted legislation, even at a fully-autonomous level, all laws are with the undertanding that the U.S. Department of Transportation and U.S. Congress overrule the state's laws if they were to made. Additionally, the fully autonomous, or level five, it is not yet realized from a technology perspective. The intention of the research is to understand which states is "ready" for fully autonomous and what states are more restrictive.
+This project will explore enacted legislation in the United States regarding the implementation, testing, and/or exploration of autonomous vehicles, and any implications this legislation has on the future state of autonomous vehicles. Although many states have enacted legislation, even at a fully-autonomous level, all laws are with the understanding that the U.S. Department of Transportation and U.S. Congress overrule the state's laws if they were to be made. Additionally, a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive.
 
 
 ## **Project Outline** 
 The intended audience for the project and visualizations are other state legislators so that they can develop an understanding of what currently exists and what may need to occur for cohesiveness across state lines if no federal regulation is established (outside of current recommendations and best practices as created by the [National Highway and Traffic Safety Administration (NHTSA)](https://www.transportation.gov/av/3)).
+
+From a legislative perspective, the layout will be in a story format, similar to the first initial sketch below. The website will lay out a brief history of autonomous vehicles, the different levels of automation, the predicted benefits of autonomous vehicles, the federal government's role, and the states' role in the technology. Throughout will be visualizations of what, how many, and when legislation was enacted and how all of that comes (or does not come) together. The purpose is to show the very different places the country is at when transportation literally travels across state lines and any impacts that will be realized if traveling from state to state. The goal is to invite legislators to evaluate their current regulations and consider if they are inhibiting or prepared for the next phase of autonomy, and adjust regulations as needed.
 
 
 ## **Initial Sketches** 
@@ -26,13 +28,11 @@ Source: “Autonomous Vehicles Self-Driving Vehicles Enacted Legislation.” Acc
 
 
 ## **Method and Medium**
-The final product will be presented in a [free WordPress website](https://tburandt94870.wordpress.com/). THhe reason for choosing WordPress over Shorthand is due to the customizability of WordPress. Shorthand is very limited in its creative customizations. The current website is complete draft mode and not content other than the title and subtitle information has been updated. The layout is currently a work in progress as well.
+The final product will be presented in a [free WordPress website](https://tburandt94870.wordpress.com/). The reason for choosing WordPress over Shorthand is due to the customizability of WordPress. Shorthand is very limited in its creative customizations. The current website is complete draft mode and not content other than the title and subtitle information has been updated. The layout is currently a work in progress as well. 
 
-The layout will be in a story format, similar to the first initial sketch above. The website will lay out a brief history of autonomous vehicles, the different levels of automation, the federal government's role, and the states' role in the technology. Throughout will be visualizations of what, how many, and when legislation was enacted and how all of that comes (or does not come) together. The purpose is to show the very different places the country is at when transportation literally travels across state lines. 
+The visualizations will likely be completed in Tableau and RawGRAPHS. Tableau does very well for map visualizations and allows for a lot of customization. RawGRAPHs provides unique layouts that may spark more creativity for the presentation of the data. These platforms seem best suited for the types of visualizes sketched. However, after more exploration another format may be selected.
 
-The visualizations will likely be completed in Tableau and RawGraphs. These platforms seem best suited for the types of visualizes sketched. However, after more exploration another format may be selected.
-
-The goal is to persuade state legislators to either pass more similar legislation to allow for ease of testing and implementation; and/or motivate the federal government to pass legislation in order to unify the existing environment.
+As mentioned, the goal is to persuade state legislators to either pass more similar legislation to allow for ease of testing and implementation; and/or motivate the federal government to pass legislation in order to unify the existing environment.
 
 
 
