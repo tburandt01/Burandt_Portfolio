@@ -7,7 +7,14 @@ The intended audience for the project and visualizations are other state legisla
 
 
 ## **Initial Sketches** 
-(/IMG_0224.jpg)
+The first sketch is an outline of how to tell the story, and what key data attributes will best tell that story.
+![Storyline](/IMG_0224.jpg)
+
+This sketch intends to show the difference among the states using a map. I am unsure how I want to measure this data; count of the number of pieces of legislation, or color code based on the type of legislation.
+![Storyline](/IMG_0224.jpg)
+
+This sketch will show the number of lives predicted to be saved by autonomous vehicle implementation. This is an important component to the story in that it builds the narrative for the necessity of the technology.
+![Storyline](/IMG_0224.jpg)
 
 
 ## **Data** 
