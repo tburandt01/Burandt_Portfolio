@@ -22,11 +22,11 @@ The data was sourced from the National Conferene of State Legislatures (NCSL). T
 
 The data regarding which states passed legislation, the year it was passed, and the text of the legislation, was gathered and put into Excel. Six policy categories and two other summary categories were created. The six policy categories are fully autonomous, testing, licensing/permit requirements, illegal to operate, platooing, and studies/commissions. The two other categories are the year the latest legislation was enacted and the number of laws passed by the state. View the raw [data](/Autonomous_Vehicle_Legislation.xlsx).
 
-Source: “Autonomous Vehicles | Self-Driving Vehicles Enacted Legislation.” Accessed February 9, 2020. https://www.ncsl.org/research/transportation/autonomous-vehicles-self-driving-vehicles-enacted-legislation.aspx.
+Source: “Autonomous Vehicles Self-Driving Vehicles Enacted Legislation.” Accessed February 9, 2020. https://www.ncsl.org/research/transportation/autonomous-vehicles-self-driving-vehicles-enacted-legislation.aspx.
 
 
 ## **Method and Medium**
-The final product will be presented in a [free WordPress website](https://tburandt94870.wordpress.com/‎(opens in a new tab)). THhe reason for choosing WordPress over Shorthand is due to the customizability of WordPress. Shorthand is very limited in its creative customizations. The current website is complete draft mode and not content other than the title and subtitle information has been updated. The layout is currently a work in progress as well.
+The final product will be presented in a [free WordPress website](https://tburandt94870.wordpress.com/). THhe reason for choosing WordPress over Shorthand is due to the customizability of WordPress. Shorthand is very limited in its creative customizations. The current website is complete draft mode and not content other than the title and subtitle information has been updated. The layout is currently a work in progress as well.
 
 The layout will be in a story format, similar to the first initial sketch above. The website will lay out a brief history of autonomous vehicles, the different levels of automation, the federal government's role, and the states' role in the technology. Throughout will be visualizations of what, how many, and when legislation was enacted and how all of that comes (or does not come) together. The purpose is to show the very different places the country is at when transportation literally travels across state lines. 
 
