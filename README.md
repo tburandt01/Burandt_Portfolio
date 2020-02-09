@@ -12,7 +12,7 @@ I hope to learn how to best communicate data-driven findings to a wide variety o
 
 [Assignment 3 Visualizations](Assignment3.md)
 
-
+[Final Project Part I](FinalProject_PartI.md)
 
 
 
