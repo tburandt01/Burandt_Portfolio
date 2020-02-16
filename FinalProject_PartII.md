@@ -12,7 +12,7 @@ The following is the sketched storyboard of how the story is intended to be told
 ## **Project Wireframes** 
 The initial data visualizations were created using two mediums, Tableau and Excel. These initial visualizations are based off of Part I sketches and details that can be found [here](/FinalProject_PartI.md). They are as follows:
 
-![Visualization 1](/ScreenShot2020-02-15at10.41.18PM.png)
+![Visualization 1](/Screen Shot2020-02-15at10.41.18PM.png)
 
 ![Visualization 2](/Sheet_4.png)
 
