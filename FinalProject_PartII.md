@@ -7,7 +7,7 @@ The first sketch is an outline of how to tell the story, and what key data attri
 ![Storyline](/IMG_0224.jpg)
 
 The following is the sketched storyboard of how the story is intended to be told in addition to the above sketch:
-
+![Storyboard](/IMG_0244.jpg)
 
 ## **Project Wireframes** 
 The initial data visualizations were created using two mediums, Tableau and Excel. These initial visualizations are based off of Part I sketches and details that can be found [here](/FinalProject_PartI.md). They are as follows:
