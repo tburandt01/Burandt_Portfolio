@@ -1,7 +1,6 @@
 # **Final Project Part II**
 This project will explore enacted legislation in the United States regarding the implementation, testing, and/or exploration of autonomous vehicles, and any implications this legislation has on the future state of autonomous vehicles. Although many states have enacted legislation, even at a fully-autonomous level, all laws are with the understanding that the U.S. Department of Transportation and U.S. Congress overrule the state's laws if they were to be made. Additionally, a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive.
 
-
 ## **Project Storyboard** 
 The first sketch is an outline of how to tell the story, and what key data attributes will best tell that story.
 ![Storyline](/IMG_0224.jpg)
@@ -10,7 +9,7 @@ The following is the sketched storyboard of how the story is intended to be told
 ![Storyboard](/IMG_0244.jpg)
 
 ## **Project Wireframes** 
-The initial data visualizations were created using two mediums, Tableau and Excel. These initial visualizations are based off of Part I sketches and details that can be found [here](/FinalProject_PartI.md). They are as follows:
+The initial data visualizations were created using two mediums, Tableau and Excel. These initial visualizations are based off of Part I sketches and details that can be found [here](/FinalProject_PartI.md). These visualizations are also representative of where purple stars are included in the above storyboard. They are as follows:
 
 ![Visualization 1](/IMG_0215.png)
 
@@ -22,14 +21,14 @@ The initial data visualizations were created using two mediums, Tableau and Exce
 
 
 ## **User Research Protocol and Interview Responses** 
-Questions were used to gather thoughts about the visualizations and story. The questions were adapted from those provided in class. The questions are as follows:
+Questions were used to gather thoughts about the visualizations and story. The questions were adapted from those provided in a previous assignment. These questions were used because they were general enough to allow for interviewees to provide open-eneded questions and they did not feel guiding. The questions are as follows:
 1. Can you tell me what you think these visualizations are about?
 2. Can you describe to me what information these visualizations are telling you?
 3. Is there anything you find surprising or confusing?
 4. Who do you think is the intended audience for this?
 5. Is there anything you would change or do differently?
 
-Three interviewees were selected. Interview 1 was a full time student with no familiarity of the topic; interview 2 was not a student and a person with a lot of familiarityof the topic; and Interview 3 was a student with some familiarity of the topic. The key points of their responses are as follows:
+The target audience is state legislators. Seeing as this audience is highly unlikely to respond to such visualization critiques, a variety of other auidence members were selected. Three interviewees were selected. Interview 1 was a full time student with no familiarity of the topic; interview 2 was not a student and a person with a lot of familiarityof the topic; and Interview 3 was a student with some familiarity of the topic. The key points of their responses are as follows:
 
 *Interview 1*
 1. These visualizations are about the current status of autonomous vehicles and their legislation and the future impact that expanding legislation could have. 
@@ -53,7 +52,7 @@ Three interviewees were selected. Interview 1 was a full time student with no fa
 5. Clearer/more actionable "next steps" supported by data.
 
 ## **Revised Wireframes**
-The following are the revisions on the existing visualizations based on interviewee feedback above:
+The following are the revisions on the existing visualizations based on interviewee feedback above. The biggest change was creating the maps in GIS for more clarity compared to Tableau in order to further the point about legislation:
 ![Visualization 1](/Deaths1.png)
 
 ![Visualization 2](/Map1.png)
@@ -62,6 +61,6 @@ The following are the revisions on the existing visualizations based on intervie
 
 ![Visualization 4](/Map3.png)
 
-More revisions include brainstorming how to visualize the next steps and what continuos autonomous vehicle legislation among states would look like via data. Additionally, most of the interviewees did not like the pie chart. Adding labels made the visualization appear too "busy" and adding a legend did not look good either. This is a visualization that needs to be reevaluated if it is necessary at all and if the information can be relayed in one simple sentence. The visualization does not seem to add to the story.
+More revisions include brainstorming how to visualize the next steps and what continuous autonomous vehicle legislation among states would look like via data. Additionally, most of the interviewees did not like the pie chart. Adding labels made the pie chart visualization appear too "busy" and adding a legend did not look good either. This is a visualization that needs to be reevaluated if it is necessary at all, and/or if the information can be relayed in one simple sentence. The visualization does not seem to add to the story.
 
 ### [Click here to return to the main portfolio page](https://tburandt01.github.io/Burandt_Portfolio/)
