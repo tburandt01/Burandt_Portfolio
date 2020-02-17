@@ -56,11 +56,11 @@ Three interviewees were selected. Interview 1 was a full time student with no fa
 The following are the revisions on the existing visualizations based on interviewee feedback above:
 ![Visualization 1](/Deaths1.png)
 
-![Visualization 2](/Map1.jpg)
+![Visualization 2](/Map1.png)
 
-![Visualization 3](/Map2.jpg)
+![Visualization 3](/Map2.png)
 
-![Visualization 4](/Map3.jpg)
+![Visualization 4](/Map3.png)
 
 More revisions include brainstorming how to visualize the next steps and what continuos autonomous vehicle legislation among states would look like via data. Additionally, most of the interviewees did not like the pie chart. Adding labels made the visualization appear too "busy" and adding a legend did not look good either. This is a visualization that needs to be reevaluated if it is necessary at all and if the information can be relayed in one simple sentence. The visualization does not seem to add to the story.
 
