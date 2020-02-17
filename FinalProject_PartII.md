@@ -54,9 +54,9 @@ Three interviewees were selected. Interview 1 was a full time student with no fa
 
 ## **Revised Wireframes**
 The following are the revisions on the existing visualizations based on interviewee feedback above:
-![Visualization 1](/Screen Shot 2020-02-16 at 5.55.21 PM.png)
+![Visualization 1](/Deaths1.png)
 
-![Visualization 2](/Map.jpg)
+![Visualization 2](/Map1.jpg)
 
 ![Visualization 3](/Map2.jpg)
 
