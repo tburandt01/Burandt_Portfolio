@@ -32,7 +32,11 @@ Questions were used to gather thoughts about the visualizations and story. The q
 Three interviewees were selected. Interview 1 was a full time student with no familiarity of the topic; interview 2 was not a student and a person with a lot of familiarityof the topic; and Interview 3 was a student with some familiarity of the topic. The key points of their responses are as follows:
 
 *Interview 1*
-
+1. These visualizations are about the current status of autonomous vehicles and their legislation and the future impact that expanding legislation could have. 
+2. Starts with information on human error and why we might want autonomous vehicles. Moves into areas where legislation exists that is ready for implementation and legislation that allows testing. 
+3. It's confusing what the legislation enacted by year pie chart is supposed to be once the information is in there and how that is the best representation of the data. Also in the orange dot visualization about fatalities in 2017; those dots don't add up. 
+4. State and local government audiences that might be considering implementing an autonomous vehicle policy/legislation.
+5. Creating a different section before the history of AV policy that gives the stats on human error accidents and fatalities would be helpful. That gives a good lead in to why we might want to make this switch. 
 
 *Interview 2*
 1. A web page highlighting fatalities in the US by vehicles, and specifically if they were caused by human error.
@@ -42,11 +46,16 @@ Three interviewees were selected. Interview 1 was a full time student with no fa
 5. Make sure each section of the web page represents the point you're trying to get across. I wasn't sure I saw a key point throughout.
 
 *Interview 3*
-
+1. This is about AVs versus regular cars, and related AV legislation.
+2. Regular cars are bad and will kill you.
+3. The dot visualization doesn't make any sense - fatalities from what? The map has no legend/key, and the pie chart has no labels so I'm not sure what they are trying to convey.
+4. Legislators in states without AV legislation yet.
+5. Clearer/more actionable "next steps" supported by data.
 
 ## **Revised Wireframes**
-The following are the revisions based on interviewee feedback:
+The following are the revisions on the existing visualizations based on interviewee feedback:
 
 
+More revisions include brainstorming how to visualize the next steps and what continuos autonomous vehicle legislation among states would look like via data. 
 
 ### [Click here to return to the main portfolio page](https://tburandt01.github.io/Burandt_Portfolio/)
