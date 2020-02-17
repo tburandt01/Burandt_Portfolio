@@ -53,9 +53,15 @@ Three interviewees were selected. Interview 1 was a full time student with no fa
 5. Clearer/more actionable "next steps" supported by data.
 
 ## **Revised Wireframes**
-The following are the revisions on the existing visualizations based on interviewee feedback:
+The following are the revisions on the existing visualizations based on interviewee feedback above:
+![Visualization 1](/Screen Shot 2020-02-16 at 5.55.21 PM.png)
 
+![Visualization 2](/Map.jpg)
 
-More revisions include brainstorming how to visualize the next steps and what continuos autonomous vehicle legislation among states would look like via data. 
+![Visualization 3](/Map2.jpg)
+
+![Visualization 4](/Map3.jpg)
+
+More revisions include brainstorming how to visualize the next steps and what continuos autonomous vehicle legislation among states would look like via data. Additionally, most of the interviewees did not like the pie chart. Adding labels made the visualization appear too "busy" and adding a legend did not look good either. This is a visualization that needs to be reevaluated if it is necessary at all and if the information can be relayed in one simple sentence. The visualization does not seem to add to the story.
 
 ### [Click here to return to the main portfolio page](https://tburandt01.github.io/Burandt_Portfolio/)
