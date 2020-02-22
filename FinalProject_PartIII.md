@@ -1,5 +1,7 @@
 # **Final Project Part III**
-This project will explore enacted legislation in the United States regarding the implementation, testing, and/or exploration of autonomous vehicles, and any implications this legislation has on the future state of autonomous vehicles. Although many states have enacted legislation, even at a fully-autonomous level, all laws are with the understanding that the U.S. Department of Transportation and U.S. Congress overrule the state's laws if they were to be made. Additionally, a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive.
+This project explored enacted legislation in the United States regarding the implementation, testing, and/or exploration of autonomous vehicles (AVs), and any implications this legislation has on the future state of autonomous vehicles.  
+
+Additionally, a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive, and what that may do to realizing the full benefits of AVs.
 
 ## **Project Summary** 
 
