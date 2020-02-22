@@ -16,28 +16,36 @@ Additionally, a fully autonomous, or level five, vehicle is not yet realized fro
 https://tburandt94870.wordpress.com/
 
 ## **References**
-All images were provided by free stock image websites (www.unsplash.com, www.pexels.com, www.pixabay.com)
-
 Below is the formal bibliography (as also seen on the final deliverable):
+<sup>All images were provided by free stock image websites (www.unsplash.com, www.pexels.com, www.pixabay.com)
+
 Administration, National Highway Traffic Safety. “Traffic Safety Facts - 2017 Data,” 2019.  https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/812687.
+
 Anderson, James, Nidhi Kalra, Karlyn Stanley, Paul Sorensen, Constantine Samaras, and Oluwatobi Oluwatola.
   Autonomous Vehicle Technology: A Guide for Policymakers, 2016. https://doi.org/10.7249/RR443-2.
+
 “Automated Vehicles for Safety | NHTSA.” Accessed February 21, 2020. https://www.nhtsa.gov/technology
   innovation/automated-vehicles-safety.
+
 “Automated Vehicles for Safety | NHTSA.” United States Department of Transportation, 2019.
   https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety.
+
 “Autonomous Vehicles | Self-Driving Vehicles Enacted Legislation.” Accessed February 9, 2020.
   https://www.ncsl.org/research/transportation/autonomous-vehicles-self-driving-vehicles-enacted
   legislation.aspx.
+
 Cox, Carrie, and Andrew Hart. “How Autonomous Vehicles Could Relieve or Worsen Traffic Congestion.” Sbd, 2016.
   https://en.calameo.com/read/003329972e56c79d00991.
+
 Davies, Alex. “Self-Driving Cars: The Complete Guide | WIRED.” Wired.com, 2016.
   https://www.wired.com/story/guide-self-driving-cars/.
+
 Governors Highway Safety Association. “Automated Vehicle Safety Expert Panel: Engaging Drivers and Law
   Enforcement,” 2019. www.ghsa.org.
+
 Walker, Jon. “The Self-Driving Car Timeline – Predictions from the Top 11 Global Automakers | Emerj -
   Artificial Intelligence Research and Insight.” Emerj, 2019. https://emerj.com/ai-adoption-timelines/self
-  driving-car-timeline-themselves-top-11-automakers/.
+  driving-car-timeline-themselves-top-11-automakers/.<sup>
 
 
 
