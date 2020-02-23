@@ -1,15 +1,13 @@
 # **Final Project Part III**
-This project explored enacted legislation in the United States regarding the implementation, testing, and/or exploration of autonomous vehicles (AVs), and any implications this legislation has on the future state of autonomous vehicles.  
+This project explored enacted legislation in the United States regarding the implementation, testing, and/or exploration of autonomous vehicles (AVs), and any implications this legislation has on the future state of autonomous vehicles. The research found that no states completely outlaw the use of autonomous vehicles (at most they have zero legislation). Legislators seemed generally concerned with the impacts of legislation, but the level of interest vis legislation is highly varying. Without consistent legislation across the states, it is unlikely the height of the benefits of autonomous vehicles (lives saved via reduction in auto accidents, improvement in traffic flow,  increased mobility, etc.). Consistent legislation would ensure developers/manufacturers would have clear and consistent laws to abide by when deploying vehicles.
 
-Additionally, a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive, and what that may do to realizing the full benefits of AVs.
+It is important to note this research is conducted under the knowledge that a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive, and what that may do to realizing the full benefits of AVs.
 
-## **Project Summary** 
+## **Project Process Summary** 
 
 
 ## **Intended Audience** 
-
-
-![Visualization 1](/IMG_0215.png)
+The intended auidence for this project is state legislators and/or federal legislators. The more likely audience is state legislators seeing as many states already have legislation and it is less difficult to update legislation than it is to start from the beginning. Whereas passing federal legislation regarding autonomous vehicle legislation has been attempted but not successful. 
 
 
 ## **Final Project Deliverables** 
