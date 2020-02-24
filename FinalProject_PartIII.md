@@ -27,9 +27,6 @@ Below is the formal bibliography for this project (as also seen on the final del
 
 <sup>Anderson, James, Nidhi Kalra, Karlyn Stanley, Paul Sorensen, Constantine Samaras, and Oluwatobi Oluwatola.Autonomous Vehicle Technology: A Guide for Policymakers, 2016. https://doi.org/10.7249/RR443-2.<sup>
 
-<sup>“Automated Vehicles for Safety | NHTSA.” Accessed February 21, 2020. https://www.nhtsa.gov/technology
-  innovation/automated-vehicles-safety.<sup>
-
 <sup>“Automated Vehicles for Safety | NHTSA.” United States Department of Transportation, 2019.
   https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety.<sup>
 
