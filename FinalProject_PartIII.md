@@ -3,21 +3,23 @@ This project explored enacted legislation in the United States regarding the imp
 
 It is important to note this research is conducted under the knowledge that a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive, and what that may do to realizing the full benefits of AVs.
 
-## **Project Process Summary** 
-[View Part I](/FinalProject_PartI.md)
-[View Part II](/FinalProject_PartII.md)
-
-
-
 ## **Intended Audience** 
 The intended auidence for this project is state legislators and/or federal legislators. The more likely audience is state legislators seeing as many states already have legislation and it is less difficult to update legislation than it is to start from the beginning. Whereas passing federal legislation regarding autonomous vehicle legislation has been attempted but not successful. 
 
+Keeping legislators in mind while creating the visualizations and telling the story limited my scope for a couple reasons. First, I wanted to keep the visualizations easy to digest and remember due to a legislator's likely busy schedule. Second, it kept the topic focused to high-level benefits that relate to legislators from any state. For example, every legislator is, assumedly, wanting to save lives which may be realized with the future implementation of AVs. If legislators had not been my key audience, I believe the visualizations may have been more technical in regard to the technological perspective (e.g., how exactly autonomous vehicles operate and how that is greater than most human drivers).
+
+## **Project Process Summary** 
+This process from start to end has been iterative and enlightening. I selected the topic due to my interest and found a relatively easy data set to use. More on the data can be found [here in Part I of this project](/FinalProject_PartI.md). I assumed after looking at the data set that map visualizations made sense, but I was uncertain how else to tell the story. After having some initial discussions with peers, some suggestions of visualizations arose that I did not think of. This reflected how important it is to talk to others throughout the process, and not just a final review. 
+
+Maps were one consistent visualization that remained throughout the project. However, the maps went through three different versions before the final version. It was interesting that something I found very intuitive was not to different auidences who reviewed the visualizations. I was surprised by how much labels and colors meant to the audience. I carried the new lesson of very clear labels and logical color choice into other data visualizations in the project. Iterations on the data, story, and critiques can be found [here in Part II of the project](/FinalProject_PartII.md).
+
+Overall, I was surprised at how many small changes each visualization needed in order to be as clear as possible in the message I wanted to convey. Something like a title can completely change the way someone views a simple pie chart. It was a great learning experience to go through and makes me think very critically of the visualizations I put together; even the simple ones.
 
 ## **Final Project Deliverable** 
 [Click here to view the final form of the visuals and research.](https://tburandt94870.wordpress.com/)
 
 ## **References**
-Below is the formal bibliography (as also seen on the final deliverable):
+Below is the formal bibliography for this project (as also seen on the final deliverable):
 
 <sup>All images were provided by free stock image websites (www.unsplash.com, www.pexels.com, www.pixabay.com)<sup>
 
