@@ -4,14 +4,17 @@ This project explored enacted legislation in the United States regarding the imp
 It is important to note this research is conducted under the knowledge that a fully autonomous, or level five, vehicle is not yet realized from a technology perspective. The intention of the research is to understand which states are "ready" for fully autonomous and what states are more restrictive, and what that may do to realizing the full benefits of AVs.
 
 ## **Project Process Summary** 
+[View Part I](/FinalProject_PartI.md)
+[View Part II](/FinalProject_PartII.md)
+
 
 
 ## **Intended Audience** 
 The intended auidence for this project is state legislators and/or federal legislators. The more likely audience is state legislators seeing as many states already have legislation and it is less difficult to update legislation than it is to start from the beginning. Whereas passing federal legislation regarding autonomous vehicle legislation has been attempted but not successful. 
 
 
-## **Final Project Deliverables** 
-https://tburandt94870.wordpress.com/
+## **Final Project Deliverable** 
+[Click here to view the final form of the visuals and research.](https://tburandt94870.wordpress.com/)
 
 ## **References**
 Below is the formal bibliography (as also seen on the final deliverable):
