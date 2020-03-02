@@ -26,14 +26,16 @@
         var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 40.4583498, lng: -80.079528},  // Setting the center to Pittsburgh, change as you like
           zoom: 15,  // Setting a zoom scale for Pittsburgh
-          styles:    // Add JSON from Map Style Wizard below this line...
-      });
-     }
+          styles:    // Add JSON from Map Style Wizard below this line... 
+
+// ..and here's the end of JSON from Style Wizard          
+        });
+      }
 // Don't forget your API Key below vv
     </script>
-    </script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDvhIsIe1T15koIn1W4AqqigfnOrsw1BcE&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDvhIsIe1T15koIn1W4AqqigfnOrsw1BcE&callback=initMap"
     async defer></script>
-   </body>
-  </html>
+  </body>
+</html>
 
 
